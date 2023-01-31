@@ -5,7 +5,7 @@ About data structures and algorithms
 #Data Structures
 1. Arrays and Strings
 2. Hashing(Dictionaries)
- Hash map are mot important in algorithms interviews. They can reduce the algorithm complexity by a factor on O(n). Hash maps store key-value pairs. Checking for existence in a hash map or set is O(1) where as in strings, it is O(n).
+ Hash map are mot important in algorithms interviews. They can reduce the algorithm complexity by a factor on O(n). Hash maps store key-value pairs. Checking for existence in a hash map or set is O(1) where as in strings, it is O(n). Anytime you need to count anything, think about using a hash map to do it.
 3. Linked lists
 4. Stacks and Queues
 5. Trees and Graphs
