@@ -35,3 +35,9 @@ Recursion: Recursion is the process of a function calling itself
 5. Back tracking
 6. Dynamic programming
 7. Divide and Conquer
+
+
+
+Important algorithm ideas
+- Fast and Slow pointers
+- Two pointers
