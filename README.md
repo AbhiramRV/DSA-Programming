@@ -31,6 +31,8 @@ There are two main type of tree traversals.
 
 6. Heaps
 
+7. Graphs
+
 #Algorithms
 1. Iterative
 Iteration: Using exclusive loop in the program
